@@ -1,7 +1,5 @@
-./cmdline-tools/latest/bin/sdkmanager --install 'build-tools;33.0.2'
-./cmdline-tools/latest/bin/sdkmanager --install platform-tools
-./cmdline-tools/latest/bin/sdkmanager --install emulator
-./cmdline-tools/latest/bin/sdkmanager --install cmake
+#deprecated
+
 ./cmdline-tools/latest/bin/sdkmanager --install "system-images;android-30;google_apis;x86_64"
 ./cmdline-tools/latest/bin/sdkmanager --install "system-images;android-30;google_apis;x86"
 
